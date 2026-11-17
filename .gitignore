@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output.mp4
+events.log
+hand_landmarker.task
+*.task
